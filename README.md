@@ -12,6 +12,3 @@ Mise en place d'un environnement Active Directory complet en local (VirtualBox) 
 
 ## Outils utilisés
 VirtualBox, Windows Server, Active Directory, Wireshark
-
-## Ce que j'ai appris
-[1-2 phrases perso sur ce que ça t'a appris]
